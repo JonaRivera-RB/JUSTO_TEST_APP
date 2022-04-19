@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "APIJR",
+        "repositoryURL": "https://github.com/JonaRivera-RB/APIJR_NETWORK",
+        "state": {
+          "branch": "main",
+          "revision": "872610d4adfcb799f38d962fd85a265e2cb5df3d",
+          "version": null
+        }
+      },
+      {
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
+        "state": {
+          "branch": null,
+          "revision": "2e63d0061da449ad0ed130768d05dceb1496de44",
+          "version": "5.12.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
